@@ -1,0 +1,23 @@
+# PlatformIO build output
+.pio/
+*.elf
+*.bin
+*.hex
+*.o
+*.map
+
+# IDE / editor state
+.vscode/
+.idea/
+*.code-workspace
+
+# Proteus backups and workspace state
+*.pdsbak
+*.pdsprj.*.workspace
+*.DSN.lck
+Project Backups/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
